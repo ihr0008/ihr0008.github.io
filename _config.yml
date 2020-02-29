@@ -1,12 +1,10 @@
 title: Isaac Revette # your name (or website title) here
-logo: "/images/photo adjusted.jpg?raw=true" # your photo (or logo) here
+logo: "/images/circle_pic_myself.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   MS in Business Analytics Candidate Graduating in May 2020 with extensive work 
   in leveraging modern data science techniques to derive business insights from data.
   <br><br>
-  I strive to combine my economics & business background with my knowledge of data science to 
-  translate cutting-edge data analytics into actionable business impacts.
-  <br><br>
+
   <a href="https://www.linkedin.com/in/isaacrevette/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
