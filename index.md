@@ -12,8 +12,8 @@
 <img src="images/IRMCaseThumbnail.jpg?raw=true"/>
 
 ---
-[Sentiment Analysis of Airline Tweets](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sentiment Analysis of Airline Tweets](/pdf/AirlineTweetSentimentAnalysis.html)
+<img src="images/SAAT.png?raw=true"/>
 
 
 
