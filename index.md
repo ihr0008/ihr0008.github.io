@@ -5,7 +5,7 @@
 ### Data Analytics Projects 
 
 [The Effect of /r/WallStreetBets on the Stock Market](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MentionsOverTime.png?raw=true"/>
 
 ---
 [Iron Mountain Pricing Analysis - Case Competition 3rd Prize](/pdf/PricingCaseComp.pdf)
