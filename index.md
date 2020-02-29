@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics Projects 
 
-[Project 1 Title](/sample_page)
+[The Effect of /r/WallStreetBets on the Stock Market](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Iron Mountain Pricing Analysis - Case Competition 3rd Prize](/pdf/PricingCaseComp.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Sentiment Analysis of Airline Tweets](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
