@@ -4,7 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   MS in Business Analytics Candidate Graduating in May 2020 with extensive work 
   in leveraging modern data science techniques to derive business insights from data.
   <br><br>
-
+  <a href="/pdf/Isaac_Revette_Resume.pdf">View My Resume</a>
+  <br><br>
   <a href="https://www.linkedin.com/in/isaacrevette/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
