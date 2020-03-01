@@ -4,7 +4,7 @@
 
 ### Data Analytics Projects 
 
-[The Effect of /r/WallStreetBets on the Stock Market](/sample_page)
+[The Effect of /r/WallStreetBets on the Stock Market](/pdf/WSBProject.html)
 <img src="images/MentionsOverTime.png?raw=true"/>
 
 ---
