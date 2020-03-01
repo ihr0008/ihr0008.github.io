@@ -12,7 +12,7 @@
 <img src="images/IRMCaseThumbnail.jpg?raw=true"/>
 
 ---
-[Sentiment Analysis of Airline Tweets](/pdf/AirlineTweetSentimentAnalysis.html)
+[Semantic Analysis of Airline Tweets](/pdf/AirlineTweetSentimentAnalysis.html)
 <img src="images/SAAT.png?raw=true"/>
 
 
