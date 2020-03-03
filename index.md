@@ -4,6 +4,10 @@
 
 ### Data Analytics Projects 
 
+[Exploring Transfer Learning: Comparing SVM and Pre-Trained BERT Classifiers on Semantic Analysis of Tweets](/pdf/Comparing SVC and BERT for NLP.pdf)
+<img src="images/SVM_BERT.jpg?raw=true"/>
+
+---
 [The Effect of /r/WallStreetBets on the Stock Market](/pdf/WSBProject.html)
 <img src="images/MentionsOverTime.png?raw=true"/>
 
