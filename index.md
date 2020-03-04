@@ -4,7 +4,7 @@
 
 ### Data Analytics Projects 
 
-[Exploring Transfer Learning: Using Tweets to compare SVM and Pre-Trained BERT Classifiers](/pdf/Comparing-SVC-and-BERT-for-NLP.pdf)
+[Exploring Transfer Learning: Using Tweets to compare SVM and Pre-Trained BERT Classifiers](/pdf/ComparingSVCandBERT.pdf)
 <img src="images/SVM_BERT.jpg?raw=true"/>
 
 ---
