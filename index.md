@@ -4,7 +4,7 @@
 
 ### Data Analytics Projects 
 
-[The Value of Transfer Learning Part I: Using Tweets to Compare SVM and Pre-Trained BERT Classifiers](/pdf/ComparingSVCandBERT.pdf)
+[The Value of Transfer Learning: Using Tweets to Compare SVM and Pre-Trained BERT Classifiers](/pdf/ComparingSVCandBERT.pdf)
 <img src="images/SVM_BERT.jpg?raw=true"/>
 
 ---
